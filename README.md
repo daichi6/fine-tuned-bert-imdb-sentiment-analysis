@@ -5,7 +5,7 @@
 ## Purpose
 BERT (Bidirectional Encoder Representations from Transformers) has been trained on vast amounts of data, making it applicable to a wide range of domains. However, since it is not domain-specific, fine-tuning BERT for a particular domain can enhance its performance. In this project, I aim to create a fine-tuned BERT model specialized for IMDb movie reviews to improve the accuracy of classifying reviews as positive or negative.
 
-**For more details, please refer to [the presentation](Fine-Tuned BERT for IMDb Review Sentiment Analysis.pdf).**
+**For more details, please refer to [the presentation](Fine-Tuned%20BERT%20for%20IMDb%20Review%20Sentiment%20Analysis.pdf).**
 
 ## Data Source
 [IMDB Movie Ratings Sentiment Analysis Dataset](https://www.kaggle.com/datasets/yasserh/imdb-movie-ratings-sentiment-analysis/data)
